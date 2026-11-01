@@ -9,3 +9,6 @@ ollama create coding-tutor -f modelfiles/coding-tutor
 ollama run coding-tutor
 ```
 
+
+## Screenshots
+See [screenshots/README.md](screenshots/README.md).
